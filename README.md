@@ -93,8 +93,8 @@ Retries async action until success/maxRetries. Supports delay, shouldRetry, onEr
 Even on success, retry if result invalid (shouldRetry=true).
 🔹 StreamedResponse
 38. Null check in http.StreamedResponse
-await response.stream.bytesToString(). Check .isEmpty or "null".
-🔹 Resume Summary Hooks
+await response.stream.bytesToString(). Check .isEmpty.
+
 39. Cross-platform test
 Skia ensures UI consistency.
 40. Performance tips
