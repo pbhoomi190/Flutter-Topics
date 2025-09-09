@@ -1,5 +1,5 @@
 # Flutter-Topics
-Structured List of a few flutter topics 
+
 ========================================
 
 🔹 Flutter & Dart Fundamentals
